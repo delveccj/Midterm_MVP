@@ -9,7 +9,7 @@ The goal of this lab exam is to **install a Python library**, **write basic code
 
 ## **Step-by-Step Instructions**
 
-### **1. Create a New GitHub Repository** 
+### **1. Create a New GitHub Repository** (4 pts)
 
 1. Log in to your GitHub account.
 2. Create a **new private repository** named `PythonQuiz`.
@@ -28,7 +28,7 @@ The goal of this lab exam is to **install a Python library**, **write basic code
 
 ---
 
-### **3. Install Required Library** 
+### **3. Install Required Library** (4 pts)
 
 1. You will use the **`requests` library** for this quiz.
 2. Install the library:
@@ -80,7 +80,7 @@ if __name__ == "__main__":
 
 ---
 
-### **6. Fix the Failing Test**
+### **6. Fix the Failing Test** (4 pts)
 
 1. **Run the unit test** to confirm it fails:
    ```bash
@@ -92,14 +92,14 @@ if __name__ == "__main__":
 self.assertIn("<title>Example Domain</title>", content)
 ```
 
-3. **Run the test again** to make sure it passes:
+3. **Run the test again** to make sure it passes: 
    ```bash
    python3 -m unittest test_fetch_page.py
    ```
 
 ---
 
-### **7. Create a GitHub Actions Workflow**
+### **7. Create a GitHub Actions Workflow** (4 pts)
 
 1. Create the `.github/workflows` directory:
    ```bash
@@ -132,7 +132,7 @@ jobs:
 
 ---
 
-### **8. Add, Commit, and Push Your Changes**
+### **8. Add, Commit, and Push Your Changes** (4 pts)
 
 1. Add all your files:
    ```bash
@@ -151,7 +151,7 @@ jobs:
 
 ---
 
-### **9. Verify the GitHub Actions Workflow**
+### **9. Verify the GitHub Actions Workflow** (4 pts)
 
 1. Go to your **GitHub repository** and click on the **Actions** tab.
 2. Make sure your **tests run successfully** on push.
