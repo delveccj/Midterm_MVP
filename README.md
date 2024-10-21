@@ -36,7 +36,7 @@ The goal of this lab exam is to **install a Python library**, **write basic code
    pip3.10 install requests
    ```
    It may already be installed, in which case pip will inform you.
-3. Create a `requirements.txt` file with the content necessary to install ```requests```
+3. Create a `requirements.txt` file with the content necessary to install ```requests```.  This will be used by the CI/CD pipeline later.
 
 ---
 
