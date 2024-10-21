@@ -1,8 +1,4 @@
-Here’s a **simplified and improved version** of your quiz with the same objectives. This version keeps things more straightforward while still including essential steps like installing a library and fixing a failing unit test.
-
----
-
-# **Simple Python Project Quiz: Fix a Unit Test**
+# **Midterm Lab Exam Question: Working With GitHub and CI/CD**
 
 ## **Instructions**
 
