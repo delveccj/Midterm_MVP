@@ -12,7 +12,7 @@ The goal of this lab exam is to **install a Python library**, **write basic code
 ### **1. Create a New GitHub Repository** (4 pts)
 
 1. Log in to your GitHub account.
-2. Create a **new private repository** named `PythonQuiz`.
+2. Create a **new private repository** named `Midterm_MVP`.
 3. Add a **README** to the repository.
 4. Invite me (`delveccj`) as a collaborator.
 
