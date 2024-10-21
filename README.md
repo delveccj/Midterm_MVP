@@ -3,7 +3,7 @@
 ## **Instructions**
 
 ### **Objective**  
-The goal of this quiz is to **install a Python library**, **write basic code**, and **fix a failing test** in your project. You will also use **GitHub** to track your progress and complete the quiz.
+The goal of this lab exam is to **install a Python library**, **write basic code**, and **fix a failing test** in your project. You will also use **GitHub** to track your progress and complete the quiz.
 
 ---
 
