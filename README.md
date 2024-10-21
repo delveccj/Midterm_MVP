@@ -33,12 +33,10 @@ The goal of this lab exam is to **install a Python library**, **write basic code
 1. You will use the **`requests` library** for this quiz.
 2. Install the library:
    ```bash
-   pip install requests
+   pip3.10 install requests
    ```
-3. Create a `requirements.txt` file with the following content:
-   ```
-   requests
-   ```
+   It may already be installed, in which case pip will inform you.
+3. Create a `requirements.txt` file with the content necessary to install ```requests```
 
 ---
 
