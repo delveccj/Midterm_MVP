@@ -9,7 +9,7 @@ The goal of this lab exam is to **install a Python library**, **write basic code
 
 ## **Step-by-Step Instructions**
 
-### **1. Create a New GitHub Repository**
+### **1. Create a New GitHub Repository** 
 
 1. Log in to your GitHub account.
 2. Create a **new private repository** named `PythonQuiz`.
@@ -28,7 +28,7 @@ The goal of this lab exam is to **install a Python library**, **write basic code
 
 ---
 
-### **3. Install Required Library**
+### **3. Install Required Library** 
 
 1. You will use the **`requests` library** for this quiz.
 2. Install the library:
