@@ -23,7 +23,7 @@ The goal of this lab exam is to **install a Python library**, **write basic code
 1. Open your terminal and clone the repository:
    ```bash
    git clone <your-repo-url>
-   cd PythonQuiz
+   cd Midterm_MVP
    ```
 
 ---
