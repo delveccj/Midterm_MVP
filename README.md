@@ -31,7 +31,7 @@ The goal of this lab exam is to **install a Python library**, **write basic code
 
 ### **3. Install Required Library** (4 pts)
 
-1. You will use the **`requests` library** for this quiz.
+1. You will use the **`requests`** library for this quiz.
 2. Install the library:
    ```bash
    pip3.10 install requests
