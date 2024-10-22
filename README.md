@@ -129,20 +129,9 @@ jobs:
 
 ### **8. Add, Commit, and Push Your Changes** (4 pts)
 
-1. Add all your files:
-   ```bash
-   git add .
-   ```
-
-2. Commit your changes with the following message:
-   ```bash
-   git commit -m "Quiz complete"
-   ```
-
-3. Push your changes to GitHub:
-   ```bash
-   git push
-   ```
+1. Add all your files
+2. Commit your changes with the following message: "Quiz complete"
+3. Push your changes to GitHub
 
 ---
 
