@@ -83,13 +83,13 @@ if __name__ == "__main__":
 
 1. **Run the unit test** to confirm it fails:
    ```bash
-   python3 -m unittest test_fetch_page.py
+   python3.10 -m unittest test_fetch_page.py
    ```
 2. The test fails because the **assertion text is slightly incorrect**. Here is a hint - look for the content bewtween the ```<h1>``` tags for the site content evaluated by the test.
 
 3. **Run the test again** to make sure it passes: 
    ```bash
-   python3 -m unittest test_fetch_page.py
+   python3.10 -m unittest test_fetch_page.py
    ```
 
 ---
