@@ -25,7 +25,7 @@ The goal of this lab exam is to **install a Python library**, **write basic code
    git clone <your-repo-url>
    cd Midterm_MVP
    ```
-**Beware** - if you make and commit changes in both the GitHub UI via your browser and via the terminal on Ubuntu - you will need to merge then together!  This can get tricky!  Only make changes via the GitHub UI if you believe you can successfully perform a merge.  No help will be given by the instructor!
+**Beware** - if you make and commit changes in both the GitHub UI via your browser and via the terminal on Ubuntu - you will need to merge then together!  This can get tricky!  Only make changes via the GitHub UI if you believe you can successfully perform a merge.  Always try to use the terminal as opposed to direct edits in the GitHub UI! No help will be given by the instructor!
 
 ---
 
