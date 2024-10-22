@@ -161,16 +161,4 @@ jobs:
    - `requirements.txt`
    - `.github/workflows/python-app.yml`
 2. Confirm that **all tests pass** in the GitHub Actions workflow.
-3. Notify me (via GitHub or email) once you have completed the quiz.
 
----
-
-### **Key Learning Outcomes**
-- Use of **GitHub** for version control and collaboration.
-- Install and manage **Python libraries** with `pip`.
-- Write, run, and fix **unit tests**.
-- Create **GitHub Actions workflows** for CI/CD.
-
----
-
-This version keeps the focus on essential tasks—**writing simple code, fixing tests, using GitHub, and CI/CD workflows**—with **less complexity**. The students will have a straightforward example to follow while learning key skills.
